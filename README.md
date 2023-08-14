@@ -2,7 +2,7 @@
 
 Exercício da primeira lista de Estrutura de Dados.
 
-Crie uma função recursiva que exiba o total de elementos nega�vos de um vetor de inteiros, de N
+Crie uma função recursiva que exiba o total de elementos negativos de um vetor de inteiros, de N
 posições, passado como parâmetro.
 
 ### O código deve trazer como comentários:
